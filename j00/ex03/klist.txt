@@ -1,0 +1,5 @@
+Credentials cache: API:2D591D1C-0C45-4621-A173-E42C39361C6D
+        Principal: gwitrand@42.FR
+
+  Issued                Expires               Principal
+Aug 29 13:38:04 2016  Sep  5 13:37:54 2016  krbtgt/42.FR@42.FR
